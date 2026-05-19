@@ -1,0 +1,75 @@
+{
+  "generated_on": "2026-05-19",
+  "generated_at": "2026-05-19T10:39:59Z",
+  "repo": "sara-nl/hydra-2.0",
+  "summary": {
+    "open_total": 0,
+    "by_category": [
+      {
+        "category": "Bug",
+        "emoji": "🐛",
+        "count": 0,
+        "percentage": 0.0
+      },
+      {
+        "category": "Enhancement",
+        "emoji": "✨",
+        "count": 0,
+        "percentage": 0.0
+      },
+      {
+        "category": "Documentation",
+        "emoji": "📄",
+        "count": 0,
+        "percentage": 0.0
+      },
+      {
+        "category": "Question",
+        "emoji": "❓",
+        "count": 0,
+        "percentage": 0.0
+      },
+      {
+        "category": "Refactor",
+        "emoji": "🔧",
+        "count": 0,
+        "percentage": 0.0
+      },
+      {
+        "category": "Build",
+        "emoji": "🏗️",
+        "count": 0,
+        "percentage": 0.0
+      }
+    ],
+    "by_status": [
+      {
+        "status": "in progress",
+        "emoji": "🔄",
+        "count": 0
+      },
+      {
+        "status": "community PR",
+        "emoji": "🤝",
+        "count": 0
+      },
+      {
+        "status": "blocked",
+        "emoji": "🚫",
+        "count": 0
+      },
+      {
+        "status": "not started",
+        "emoji": "⬜",
+        "count": 0
+      },
+      {
+        "status": "done",
+        "emoji": "✅",
+        "count": 0
+      }
+    ]
+  },
+  "issues": [],
+  "updates": []
+}
